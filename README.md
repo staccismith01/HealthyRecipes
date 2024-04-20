@@ -1,0 +1,1 @@
+This health recipes app was made in my Mobile Web App Development course. I created this app using Android Studio and I used Java and XML code in this project. This application is a recipe app where I chose a recipe, added a picture of the dish on the first page, and adding the ingredients and instructions on the second page.
